@@ -1,0 +1,14 @@
+-rootPath
+/home/alejandro/Workspace/cpp/ExcursionsGUI
+-cmake-output
+-output-file
+/home/alejandro/Workspace/cpp/ExcursionsGUI/build/.qt/qml_imports/appExcursionsGUI_conf.cmake
+-importPath
+/home/alejandro/Workspace/cpp/ExcursionsGUI/build/ExcursionsGUI
+-importPath
+/home/alejandro/Workspace/cpp/ExcursionsGUI/build
+-importPath
+/home/alejandro/Qt/6.7.1/gcc_64/./qml
+-qrcFiles
+/home/alejandro/Workspace/cpp/ExcursionsGUI/build/.qt/rcc/qmake_ExcursionsGUI.qrc
+/home/alejandro/Workspace/cpp/ExcursionsGUI/build/.qt/rcc/appExcursionsGUI_raw_qml_0.qrc

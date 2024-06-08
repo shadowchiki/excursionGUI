@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/">
+    <file alias="/ExcursionsGUI">/home/alejandro/Workspace/cpp/ExcursionsGUI/build/ExcursionsGUI</file>
+
+  </qresource>
+</RCC>

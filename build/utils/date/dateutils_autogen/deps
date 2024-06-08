@@ -1,0 +1,15 @@
+dateutils_autogen/timestamp: \
+	/home/alejandro/Workspace/cpp/ExcursionsGUI/utils/date/CMakeLists.txt \
+	/home/alejandro/Workspace/cpp/ExcursionsGUI/utils/date/betweendatefilter.cpp \
+	/home/alejandro/Workspace/cpp/ExcursionsGUI/utils/date/betweendatefilter.h \
+	/home/alejandro/Workspace/cpp/ExcursionsGUI/utils/date/datefilter.cpp \
+	/home/alejandro/Workspace/cpp/ExcursionsGUI/utils/date/datefilter.h \
+	/home/alejandro/Workspace/cpp/ExcursionsGUI/utils/date/datefilterfactory.cpp \
+	/home/alejandro/Workspace/cpp/ExcursionsGUI/utils/date/datefilterfactory.h \
+	/home/alejandro/Workspace/cpp/ExcursionsGUI/utils/date/dateutils.cpp \
+	/home/alejandro/Workspace/cpp/ExcursionsGUI/utils/date/dateutils.h \
+	/home/alejandro/Workspace/cpp/ExcursionsGUI/utils/date/enddatefilter.cpp \
+	/home/alejandro/Workspace/cpp/ExcursionsGUI/utils/date/enddatefilter.h \
+	/home/alejandro/Workspace/cpp/ExcursionsGUI/utils/date/startdatefilter.cpp \
+	/home/alejandro/Workspace/cpp/ExcursionsGUI/utils/date/startdatefilter.h \
+	/usr/bin/cmake

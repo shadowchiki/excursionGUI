@@ -1,0 +1,5 @@
+module ExcursionsGUI
+typeinfo appExcursionsGUI.qmltypes
+prefer :/ExcursionsGUI/
+Main 1.0 Main.qml
+

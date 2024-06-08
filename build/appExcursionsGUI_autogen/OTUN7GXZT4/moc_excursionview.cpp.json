@@ -1,0 +1,41 @@
+{
+    "classes": [
+        {
+            "className": "ExcursionView",
+            "object": true,
+            "properties": [
+                {
+                    "constant": false,
+                    "designable": true,
+                    "final": false,
+                    "index": 0,
+                    "name": "excursionInfo",
+                    "notify": "updateExcursion",
+                    "read": "excursionInfo",
+                    "required": false,
+                    "scriptable": true,
+                    "stored": true,
+                    "type": "Excursion",
+                    "user": false,
+                    "write": "setExcursionInfo"
+                }
+            ],
+            "qualifiedClassName": "ExcursionView",
+            "signals": [
+                {
+                    "access": "public",
+                    "name": "updateExcursion",
+                    "returnType": "void"
+                }
+            ],
+            "superClasses": [
+                {
+                    "access": "public",
+                    "name": "QObject"
+                }
+            ]
+        }
+    ],
+    "inputFile": "excursionview.h",
+    "outputRevision": 68
+}

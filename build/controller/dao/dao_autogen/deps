@@ -1,0 +1,8 @@
+dao_autogen/timestamp: \
+	/home/alejandro/Workspace/cpp/ExcursionsGUI/controller/dao/CMakeLists.txt \
+	/home/alejandro/Workspace/cpp/ExcursionsGUI/controller/dao/excursion.cpp \
+	/home/alejandro/Workspace/cpp/ExcursionsGUI/controller/dao/excursion.h \
+	/home/alejandro/Workspace/cpp/ExcursionsGUI/controller/dao/excursiondao.h \
+	/home/alejandro/Workspace/cpp/ExcursionsGUI/controller/dao/impl/excursiondaofileimpl.cpp \
+	/home/alejandro/Workspace/cpp/ExcursionsGUI/controller/dao/impl/excursiondaofileimpl.h \
+	/usr/bin/cmake

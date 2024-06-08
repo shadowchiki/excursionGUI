@@ -1,0 +1,10 @@
+--bare
+-I
+/home/alejandro/Workspace/cpp/ExcursionsGUI/build
+-I
+/home/alejandro/Qt/6.7.1/gcc_64/./qml
+--resource
+/home/alejandro/Workspace/cpp/ExcursionsGUI/build/.qt/rcc/qmake_ExcursionsGUI.qrc
+--resource
+/home/alejandro/Workspace/cpp/ExcursionsGUI/build/.qt/rcc/appExcursionsGUI_raw_qml_0.qrc
+/home/alejandro/Workspace/cpp/ExcursionsGUI/Main.qml

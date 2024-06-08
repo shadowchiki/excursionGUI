@@ -1,0 +1,5 @@
+daotest_autogen/timestamp: \
+	/home/alejandro/Workspace/cpp/ExcursionsGUI/controller/dao/test/CMakeLists.txt \
+	/home/alejandro/Workspace/cpp/ExcursionsGUI/controller/dao/test/daotests.cpp \
+	/usr/share/cmake-3.22/Modules/FetchContent.cmake \
+	/usr/bin/cmake
